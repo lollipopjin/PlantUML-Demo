@@ -22,6 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     name: just_test_in_parallel
     steps:
+    - name: checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
     - name: retrieve secret 
       env:
         just_test: ${{ secrets.JUST_TEST }}
@@ -32,6 +36,10 @@ jobs:
     runs-on: ubuntu-latest
     name: just_test_in_sequence
     steps:
+    - name: checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
     - name: Run build script
       run: ./.github/scripts/build.sh
       shell: bash
