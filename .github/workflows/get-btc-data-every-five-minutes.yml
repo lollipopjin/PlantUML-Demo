@@ -2,7 +2,7 @@ name: get-btc-data
 on:
   push:
   schedule:
-  - cron: '*/5 * * * *'
+  - cron: '*/1 * * * *'
 jobs:
   get-btc-data-every-five-minutes:
     runs-on: ubuntu-latest
