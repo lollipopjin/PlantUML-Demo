@@ -20,7 +20,7 @@ jobs:
   # this job will do parallel wiht generate_plantuml
   do_some_actions_test:
     runs-on: ubuntu-latest
-    name: just_test
+    name: just_test_in_parallel
     steps:
     - name: retrieve secret 
       env:
@@ -30,7 +30,7 @@ jobs:
   do_some_other_actions_test:
     needs: generate_plantuml
     runs-on: ubuntu-latest
-    name: just_test
+    name: just_test_in_sequence
     steps:
     - name: Run build script
       run: ./.github/scripts/build.sh
