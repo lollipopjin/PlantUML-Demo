@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="180px" preserveAspectRatio="none" style="width:628px;height:180px;background:#FFFFFF;" version="1.1" viewBox="0 0 628 180" width="628px" zoomAndPan="magnify"><defs><filter height="300%" id="fre40sx169k" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="49.25" style="stroke:#A80036;stroke-width:1.5;" width="88" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="39" y="20.1387">大佬</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="94" y1="24.9688" y2="24.9688"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="66" x="13" y="38.251">衣着: 女装格子</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="76" x="13" y="49.8916">头发: 不用电风吹</text><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="42" x="130" y="14.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="28" x="137" y="27.6387">Obj1</text><line style="stroke:#A80036;stroke-width:1.5;" x1="131" x2="171" y1="32.4688" y2="32.4688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="129.5" y="133"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="136.5" y="146.1387">Obj2</text><line style="stroke:#A80036;stroke-width:1.5;" x1="130.5" x2="171.5" y1="150.9688" y2="150.9688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="221.5" y="14.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="228.5" y="27.6387">Obj3</text><line style="stroke:#A80036;stroke-width:1.5;" x1="222.5" x2="263.5" y1="32.4688" y2="32.4688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="221.5" y="133"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="228.5" y="146.1387">Obj4</text><line style="stroke:#A80036;stroke-width:1.5;" x1="222.5" x2="263.5" y1="150.9688" y2="150.9688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="383.5" y="14.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="390.5" y="27.6387">Obj5</text><line style="stroke:#A80036;stroke-width:1.5;" x1="384.5" x2="425.5" y1="32.4688" y2="32.4688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="383.5" y="133"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="390.5" y="146.1387">Obj6</text><line style="stroke:#A80036;stroke-width:1.5;" x1="384.5" x2="425.5" y1="150.9688" y2="150.9688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="545.5" y="14.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="552.5" y="27.6387">Obj7</text><line style="stroke:#A80036;stroke-width:1.5;" x1="546.5" x2="587.5" y1="32.4688" y2="32.4688"/><rect fill="#FEFECE" filter="url(#fre40sx169k)" height="33.9688" style="stroke:#A80036;stroke-width:1.5;" width="43" x="545.5" y="133"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="552.5" y="146.1387">Obj8</text><line style="stroke:#A80036;stroke-width:1.5;" x1="546.5" x2="587.5" y1="150.9688" y2="150.9688"/><!--MD5=[16bbc01e7d37bb6b89976c2a8a776ce4]
+reverse link Obj1 to Obj2--><path codeLine="18" d="M148.403,68.9948 C147.907,79.9286 147.64,91.9496 148,103 C148.323,112.9186 149.037,124.021 149.687,132.8333 " fill="none" id="Obj1-backto-Obj2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="141.433,68.2829,149.617,48.737,155.408,69.1203,141.433,68.2829" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="149" y="99.0669">2 继承 1</text><!--MD5=[2f5362dd78c452e9690cd428490d655c]
+reverse link Obj3 to Obj4--><path codeLine="19" d="M240.766,61.844 C240.057,74.5023 239.56,89.4778 240,103 C240.323,112.9186 241.037,124.021 241.687,132.8333 " fill="none" id="Obj3-backto-Obj4" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="241.617,48.737,237.2364,54.465,240.839,60.7118,245.2196,54.9837,241.617,48.737" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="120" x="241" y="99.0669">3 由 4 组成 (强依赖)</text><!--MD5=[9e5b0bace53307f124ae394b49c4c96d]
+reverse link Obj5 to Obj6--><path codeLine="20" d="M402.766,61.844 C402.057,74.5023 401.56,89.4778 402,103 C402.323,112.9186 403.037,124.021 403.687,132.8333 " fill="none" id="Obj5-backto-Obj6" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="403.617,48.737,399.2364,54.465,402.839,60.7118,407.2196,54.9837,403.617,48.737" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="120" x="403" y="99.0669">5 由 6 组成 (弱依赖)</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="393.9935" y="122.0638">6</text><!--MD5=[71eee154b643bf46f4ec19ab58cd616f]
+link Obj7 to Obj8--><path codeLine="21" d="M567,48.699 C567,70.9565 567,110.7536 567,132.9388 " fill="none" id="Obj7-Obj8" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="568" y="99.0669">相互关联</text><!--MD5=[c823c1833ba92d0c0999d2dd36cdecf5]
+@startuml
+object 大佬 {
+    衣着: 女装格子
+    头发: 不用电风吹
+}
+
+
+
+
+object Obj1
+object Obj2
+object Obj3
+object Obj4
+object Obj5
+object Obj6
+object Obj7
+object Obj8
+
+Obj1 <|- - Obj2 : 2 继承 1
+Obj3 *- - Obj4 : 3 由 4 组成 (强依赖)
+Obj5 o- - "6" Obj6 : 5 由 6 组成 (弱依赖)
+Obj7 .. Obj8 : 相互关联
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

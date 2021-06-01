@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="613px" preserveAspectRatio="none" style="width:1133px;height:613px;background:#FFFFFF;" version="1.1" viewBox="0 0 1133 613" width="1133px" zoomAndPan="magnify"><defs><filter height="300%" id="f3kvwa6spuoeu" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[262aabfe314dcb38308ea550cce12173]
+cluster Some Group--><polygon fill="#FFFFFF" filter="url(#f3kvwa6spuoeu)" points="602.5,42.492,706.5,42.492,713.5,64.7889,863.5,64.7889,863.5,264.492,602.5,264.492,602.5,42.492" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="602.5" x2="713.5" y1="64.7889" y2="64.7889"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="98" x="606.5" y="57.4871">Some Group</text><!--MD5=[a809f7b457cbc4d947186a4bb863b06b]
+cluster Other Groups--><polygon fill="#FFFFFF" filter="url(#f3kvwa6spuoeu)" points="649.5,360.492,659.5,350.492,902.5,350.492,902.5,442.492,892.5,452.492,649.5,452.492,649.5,360.492" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="892.5" x2="902.5" y1="360.492" y2="350.492"/><line style="stroke:#000000;stroke-width:1.5;" x1="649.5" x2="892.5" y1="360.492" y2="360.492"/><line style="stroke:#000000;stroke-width:1.5;" x1="892.5" x2="892.5" y1="360.492" y2="452.492"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="109" x="717.5" y="376.4871">Other Groups</text><path d="M897.0727,196.641 C900.6927,190.6041 904.5335,190.3688 909.6481,194.8548 C912.0226,188.907 916.5592,187.2337 921.3193,192.3349 C925.6842,186.2285 929.5934,186.5005 934.1132,192.1666 C937.7979,185.1247 944.455,184.8238 948.5425,191.7505 C951.7976,185.9903 955.6366,184.9113 960.4725,190.0144 C965.3155,184.2525 971.3541,185.283 974.4379,191.9853 C978.3241,187.8176 981.996,186.6397 985.2209,192.6836 C989.3735,185.5217 995.3389,186.9305 999.1318,193.0601 C1003.9616,186.6226 1008.5048,187.3115 1011.7513,194.5239 C1016.3929,189.1276 1021.0755,189.5089 1024.1021,196.1772 C1032.7983,199.9693 1033.0275,205.3134 1026.4975,211.4877 C1033.7926,215.5822 1032.8916,222.5074 1026.4048,226.517 C1032.9365,232.2088 1033.0268,237.3015 1025.7287,242.4048 C1033.4226,247.6701 1030.8581,254.6254 1023.6498,257.8902 C1020.623,264.6548 1015.0973,264.6783 1011.4208,258.5043 C1007.35,263.7894 1001.7221,263.0206 998.8528,257.1506 C995.8186,263.383 990.9162,263.9013 986.8127,258.2324 C981.9189,265.7328 976.9757,264.9282 972.5145,257.8093 C970.4407,264.1861 965.2521,265.5663 960.8514,260.1011 C956.0858,265.6003 951.0263,265.7736 947.922,258.4287 C943.5632,265.2783 939.1756,264.7757 934.8179,258.4275 C931.4325,264.7291 926.1032,263.9072 922.3749,258.8016 C916.9188,265.872 911.924,263.127 908.3191,256.8519 C904.8349,263.1099 900.8215,262.608 896.7916,257.4005 C888.1363,253.8258 886.2335,247.725 893.7772,241.1462 C886.1264,237.1782 885.2812,231.4792 891.8302,225.7191 C885.4058,220.48 886.9238,214.819 893.9669,211.6212 C886.5849,206.0325 888.5364,198.9294 897.0727,196.641 " fill="#FFFFFF" filter="url(#f3kvwa6spuoeu)" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[a8e31809c94bd3920922c17a126bb0b3]
+cluster MySql--><path d="M926.5,307.492 C926.5,297.492 1026.5,297.492 1026.5,297.492 C1026.5,297.492 1126.5,297.492 1126.5,307.492 L1126.5,596.492 C1126.5,606.492 1026.5,606.492 1026.5,606.492 C1026.5,606.492 926.5,606.492 926.5,596.492 L926.5,307.492 " fill="#FFFFFF" filter="url(#f3kvwa6spuoeu)" style="stroke:#000000;stroke-width:1.5;"/><path d="M926.5,307.492 C926.5,317.492 1026.5,317.492 1026.5,317.492 C1026.5,317.492 1126.5,317.492 1126.5,307.492 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="48" x="1002.5" y="332.4871">MySql</text><!--MD5=[57a7dd60b0970f41fd8892a58576fbc8]
+cluster This is my folder--><polygon fill="#FFFFFF" filter="url(#f3kvwa6spuoeu)" points="950.5,355.492,1092.5,355.492,1099.5,377.7889,1102.5,377.7889,1102.5,452.492,950.5,452.492,950.5,355.492" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="950.5" x2="1099.5" y1="377.7889" y2="377.7889"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="136" x="954.5" y="370.4871">This is my folder</text><!--MD5=[b098bf3b49ab5940c6091a421f0675e2]
+cluster Foo--><rect fill="#FFFFFF" filter="url(#f3kvwa6spuoeu)" height="97" style="stroke:#000000;stroke-width:1.5;" width="128" x="954.5" y="485.492"/><path d="M993.5,485.492 L993.5,494.7889 L983.5,504.7889 L954.5,504.7889 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="957.5" y="499.4871">Foo</text><!--MD5=[96f7e1299d4a43069e6ed32352fcac20]
+entity HTTP--><ellipse cx="627.5" cy="100.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="609" y="130.4871">HTTP</text><!--MD5=[cbd7cda55f2530e2efe43ec72c097853]
+entity First Component--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="160" x="618.5" y="202.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="758.5" y="207.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="756.5" y="209.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="756.5" y="213.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="120" x="633.5" y="234.53">First Component</text><!--MD5=[b9d11f23832c1491231c5b33e55ab8c6]
+entity Another Component--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="176" x="671.5" y="77.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="827.5" y="82.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="825.5" y="84.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="825.5" y="88.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="136" x="686.5" y="109.53">Another Component</text><!--MD5=[76af18d92d7d7c0f7ebd8f4f605ac5aa]
+entity FTP--><ellipse cx="674.5" cy="413.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="661.5" y="443.4871">FTP</text><!--MD5=[0e2cc1aee2c7f52697e111b4fb84546c]
+entity Second Component--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="168" x="718.5" y="390.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="866.5" y="395.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="864.5" y="397.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="864.5" y="401.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="128" x="733.5" y="422.53">Second Component</text><!--MD5=[243c1e580c31013c48b02624e18b25a7]
+entity Example 1--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="112" x="903.5" y="202.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="995.5" y="207.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="993.5" y="209.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="993.5" y="213.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="72" x="918.5" y="234.53">Example 1</text><!--MD5=[3e0e08c92570480402984701ab5a6d2d]
+entity Folder 3--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="104" x="966.5" y="390.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="1050.5" y="395.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="1048.5" y="397.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="1048.5" y="401.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="64" x="981.5" y="422.53">Folder 3</text><!--MD5=[63877ed85df621d134a6c80fb52dad56]
+entity Frame 4--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="96" x="970.5" y="520.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="1046.5" y="525.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="1044.5" y="527.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="1044.5" y="531.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="56" x="985.5" y="552.53">Frame 4</text><!--MD5=[8c914f543dbf50ea3edeb9e03921c30c]
+entity VC--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="128" x="93.5" y="202.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="201.5" y="207.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="199.5" y="209.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="199.5" y="213.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="88" x="108.5" y="234.53">VueComponet</text><!--MD5=[003c7bba6a1ce9b0145af19dda0a88c6]
+entity Props--><ellipse cx="49.5" cy="225.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="29" y="255.4871">Props</text><!--MD5=[1fdded0352c3e8b8e8e5fa4c440e3206]
+entity Events--><ellipse cx="465.5" cy="225.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="441" y="255.4871">Events</text><path d="M6,87.992 L6,113.1248 A0,0 0 0 0 6,113.1248 L45.5,113.1248 L49.5,216.258 L53.5,113.1248 L93,113.1248 A0,0 0 0 0 93,113.1248 L93,97.992 L83,87.992 L6,87.992 A0,0 0 0 0 6,87.992 " fill="#FBFB77" filter="url(#f3kvwa6spuoeu)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M83,87.992 L83,97.992 L93,97.992 L83,87.992 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="12" y="105.0589">传入 props</text><path d="M429,87.992 L429,113.1248 A0,0 0 0 0 429,113.1248 L461.5,113.1248 L465.5,216.258 L469.5,113.1248 L502,113.1248 A0,0 0 0 0 502,113.1248 L502,97.992 L492,87.992 L429,87.992 A0,0 0 0 0 429,87.992 " fill="#FBFB77" filter="url(#f3kvwa6spuoeu)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M492,87.992 L492,97.992 L502,97.992 L492,87.992 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="435" y="105.0589">抛出事件</text><!--MD5=[55b6f7fe569c88e778889e4a7d46dc6f]
+entity C1--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="112" x="309.5" y="202.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="401.5" y="207.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="399.5" y="209.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="399.5" y="213.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="72" x="324.5" y="234.53">Componet1</text><!--MD5=[2324993324a80522a7091d42b9118e29]
+entity C2--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="112" x="509.5" y="390.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="601.5" y="395.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="599.5" y="397.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="599.5" y="401.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="72" x="524.5" y="422.53">Componet2</text><!--MD5=[1fbebea194958946a87d9cbb36bd3563]
+entity Props1--><ellipse cx="265.5" cy="225.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="240.5" y="255.4871">Props1</text><!--MD5=[28369af4205291c86d8aab91b963a436]
+entity Props2--><ellipse cx="465.5" cy="413.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="441" y="443.4871">Props2</text><path d="M510,212.992 L510,221.492 L474.676,225.492 L510,229.492 L510,238.1248 A0,0 0 0 0 510,238.1248 L583,238.1248 A0,0 0 0 0 583,238.1248 L583,222.992 L573,212.992 L510,212.992 A0,0 0 0 0 510,212.992 " fill="#FBFB77" filter="url(#f3kvwa6spuoeu)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M573,212.992 L573,222.992 L583,222.992 L573,212.992 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="52" x="516" y="230.0589">抛出事件</text><!--MD5=[bdbee0fc59a29b9ec21c283a244fef13]
+entity DA--><ellipse cx="1059.5" cy="225.492" fill="#BC8F8F" filter="url(#f3kvwa6spuoeu)" rx="8" ry="8" style="stroke:#FFA500;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="1016" y="255.4871">Data Access</text><!--MD5=[cfe1c00cd2ddda50f37fc5622644ebdd]
+entity Web Server--><rect fill="#FFD700" filter="url(#f3kvwa6spuoeu)" height="45.6" style="stroke:#000000;stroke-width:1.5;" width="120" x="882.5" y="77.492"/><rect fill="#FFD700" height="10" style="stroke:#000000;stroke-width:1.5;" width="15" x="982.5" y="82.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="980.5" y="84.492"/><rect fill="#FFD700" height="2" style="stroke:#000000;stroke-width:1.5;" width="4" x="980.5" y="88.492"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="80" x="897.5" y="109.53">Web Server</text><!--MD5=[315a58f4d132a61460f2bf92a6eefe40]
+link Props to VC--><path d="M58.7812,225.492 C68.6326,225.492 78.484,225.492 88.3354,225.492 " fill="none" id="Props-to-VC" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="93.4871,225.492,84.4871,221.492,88.4871,225.492,84.4871,229.492,93.4871,225.492" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[e32ddbf64a78027885abb05466f3529a]
+link VC to Events--><path d="M179.238,202.292 C197.695,184.41 225.916,161.088 256,150.992 C325.523,127.661 356.716,115.703 421,150.992 C443.98,163.607 456.279,193.49 461.801,211.34 " fill="none" id="VC-to-Events" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="463.301,216.461,464.6095,206.6995,461.8954,211.6627,456.9322,208.9485,463.301,216.461" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[bb4ac576a3b79954b1b464f25a2fb0a5]
+link Props1 to C1--><path d="M274.875,225.492 C284.622,225.492 294.369,225.492 304.116,225.492 " fill="none" id="Props1-to-C1" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="309.213,225.492,300.213,221.492,304.213,225.492,300.213,229.492,309.213,225.492" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[b4d7c30f1b74004afb1f9342cb11d367]
+link C1 to Events--><path d="M421.75,225.492 C431.549,225.492 441.348,225.492 451.147,225.492 " fill="none" id="C1-to-Events" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="456.271,225.492,447.271,221.492,451.271,225.492,447.271,229.492,456.271,225.492" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[dd845b5b0d28360961c264fe089639a2]
+link Events to Props2--><path d="M465.5,234.967 C465.5,264.515 465.5,363.133 465.5,399.164 " fill="none" id="Events-to-Props2" style="stroke:#FF6655;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#FF6655" points="465.5,404.39,469.5,395.39,465.5,399.39,461.5,395.39,465.5,404.39" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[2bf3fe494c5d2e5fed5eaae357e308c1]
+link Props2 to C2--><path d="M474.875,413.492 C484.622,413.492 494.369,413.492 504.116,413.492 " fill="none" id="Props2-to-C2" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="509.213,413.492,500.213,409.492,504.213,413.492,500.213,417.492,509.213,413.492" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[46d996859f59e5baf77956ce93023cee]
+link HTTP to First Component--><path d="M627.43,109.693 C627.653,123.208 629.557,150.634 640.5,170.492 C647.207,182.662 657.649,193.635 667.836,202.46 " fill="none" id="HTTP-First Component" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[b31ac7abd68f04ca600009a3528fb133]
+link First Component to HTTP--><path d="M685.745,202.396 C670.876,176.637 646.812,134.948 634.803,114.144 " fill="none" id="First Component-to-HTTP" style="stroke:#FF6655;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#FF6655" points="632.159,109.562,633.195,119.3562,634.6591,113.8921,640.1232,115.3561,632.159,109.562" style="stroke:#FF6655;stroke-width:1.0;"/><text fill="#777777" font-family="Impact" font-size="13" lengthAdjust="spacing" textLength="23" x="668.5" y="166.5589">use</text><!--MD5=[1966a42bb49d59057147dbda06282f4b]
+link FTP to Second Component--><path d="M683.75,413.492 C695.192,413.492 706.634,413.492 718.076,413.492 " fill="none" id="FTP-Second Component" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[d3aefbd8005e27b21e7ce98ddd948193]
+link First Component to FTP--><path d="M695.653,248.559 C690.626,287.513 680.325,367.345 676.232,399.066 " fill="none" id="First Component-to-FTP" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="675.543,404.408,680.6619,395.9939,676.1829,399.4491,672.7276,394.9701,675.543,404.408" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[efc1ffe8b578a0fb156c7bce303319bb]
+link Another Component to Example 1--><path d="M795.718,123.766 C830.549,145.187 883.098,177.505 919.229,199.725 " fill="none" id="Another Component-to-Example 1" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="923.551,202.383,917.9803,194.2609,919.292,199.7636,913.7893,201.0753,923.551,202.383" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[7ec8393a78a133520e8846dd05a7857a]
+link Example 1 to Folder 3--><path d="M966.5,248.559 C977.367,282.818 998.263,348.696 1009.99,385.656 " fill="none" id="Example 1-to-Folder 3" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="1011.51,390.454,1012.6055,380.6663,1010.0001,385.6874,1004.9789,383.0821,1011.51,390.454" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[b96c7096199393c1414a8b4e9ed2c30f]
+link Folder 3 to Frame 4--><path d="M1018.5,436.496 C1018.5,458.293 1018.5,491.724 1018.5,515.2 " fill="none" id="Folder 3-to-Frame 4" style="stroke:#FF6655;stroke-width:1.0;"/><polygon fill="#FF6655" points="1018.5,520.347,1022.5,511.347,1018.5,515.347,1014.5,511.347,1018.5,520.347" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[363fa5e0e34baebc00cf77642f1dd18b]
+link DA to First Component--><path d="M1057.17,216.477 C1052.35,199.899 1039.51,164.994 1014,150.992 C971.533,127.68 952.72,142.647 905,150.992 C849.061,160.774 788.285,184.407 747.252,202.453 " fill="none" id="DA-First Component" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[3904698d0307f1ddb5506dbe8c7f52ee]
+link HTTP to Web Server--><path d="M628.667,91.306 C631.646,72.487 641.508,30.402 671,19.492 C707.473,6 809.457,6.188 846,19.492 C877.447,30.941 905.774,57.637 923.478,77.266 " fill="none" id="HTTP-Web Server" style="stroke:#FF6655;stroke-width:1.0;"/><!--MD5=[793aa7bfd7d98689002f00b07adffc0d]
+@startuml
+component VueComponet as VC
+Props -> VC
+VC -> Events
+note top of Props : 传入 props
+note top of Events : 抛出事件
+
+
+
+
+component Componet1 as C1
+component Componet2 as C2
+Props1 -> C1
+C1 -> Events
+Events ..> Props2
+Props2 -> C2
+note right of Events : 抛出事件
+
+
+
+
+
+package "Some Group" {
+  HTTP - [First Component]
+  [Another Component]
+}
+ 
+node "Other Groups" {
+  FTP - [Second Component]
+  [First Component] - -> FTP
+} 
+
+cloud {
+  [Example 1]
+}
+
+
+database "MySql" {
+  folder "This is my folder" {
+	[Folder 3]
+  }
+  frame "Foo" {
+	[Frame 4]
+  }
+}
+
+
+[Another Component] - -> [Example 1]
+[Example 1] - -> [Folder 3]
+[Folder 3] - -> [Frame 4]
+
+
+
+
+
+
+skinparam interface {
+  backgroundColor RosyBrown
+  borderColor orange
+}
+
+skinparam component {
+  FontSize 13
+  BackgroundColor<<Apache>> Red
+  BorderColor<<Apache>> #FF6655
+  FontName Courier
+  BorderColor black
+  BackgroundColor gold
+  ArrowFontName Impact
+  ArrowColor #FF6655
+  ArrowFontColor #777777
+}
+
+() "Data Access" as DA
+
+DA - [First Component] 
+[First Component] ..> () HTTP : use
+HTTP - [Web Server] << Apache >>
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
