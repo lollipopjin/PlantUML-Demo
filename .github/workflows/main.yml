@@ -17,6 +17,21 @@ jobs:
         message: "Render PlantUML files"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # this job will do parallel wiht generate_plantuml
+  do_some_actions_test:
+    runs-on: ubuntu-latest
+    name: just_test
+    steps:
+    - name: retrieve secret 
+      env:
+        just_test: ${{ secrets.JUST_TEST }}
+      run: ./.github/scripts/print_secret.sh $just_test
+  # this job will do after generate_plantuml
+  do_some_other_actions_test:
+    needs: generate_plantuml
+    runs-on: ubuntu-latest
+    name: just_test
+    steps:
     - name: Run build script
       run: ./.github/scripts/build.sh
       shell: bash
@@ -29,7 +44,3 @@ jobs:
       with:
         name: output-log-file
         path: output.log
-    - name: retrieve secret 
-      env:
-        just_test: ${{ secrets.JUST_TEST }}
-      run: ./.github/scripts/print_secret.sh $just_test
