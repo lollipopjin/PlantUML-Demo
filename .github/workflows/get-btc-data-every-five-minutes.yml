@@ -1,0 +1,24 @@
+name: get-btc-data
+on:
+  push:
+    paths: 
+    - .github/workflows/get-btc-data-every-five-minutes.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  get-btc-data-every-five-minutes:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+    - name: Setup deno
+      uses: denoland/setup-deno@main
+      with:
+        deno-version: v1.x
+    - name: Fetch data
+      uses: githubocto/flat@v2
+      with:
+        http_url: http://api.coindesk.com/v2/bpi/currentprice.json 
+        downloaded_filename: btc-price.json
+        postprocess: postprocess.ts
