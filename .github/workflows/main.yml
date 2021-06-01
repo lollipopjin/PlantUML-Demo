@@ -15,7 +15,7 @@ jobs:
       with:
         path: preview
         message: "Render PlantUML files"
-      env:
+      env: # use GITHUB_TOKEN to update repository.
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # this job will do parallel wiht generate_plantuml
   do_some_actions_test:
