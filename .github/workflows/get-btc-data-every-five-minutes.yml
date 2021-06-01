@@ -1,5 +1,8 @@
 name: get btc data
 on:
+  push:
+    paths:
+      - .github/workflows/get-btc-data-every-five-minutes.yml
   schedule:
     - cron: '* * * * *'
 jobs:
