@@ -1,11 +1,7 @@
 name: get-btc-data
 on:
-  push:
-    paths: 
-    - .github/workflows/get-btc-data-every-five-minutes.yml
-  workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+  - cron: '*/5 * * * *'
 jobs:
   get-btc-data-every-five-minutes:
     runs-on: ubuntu-latest
