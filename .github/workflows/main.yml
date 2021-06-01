@@ -32,5 +32,4 @@ jobs:
     - name: retrieve secret 
       env:
         just_test: ${{ secrets.JUST_TEST }}
-      run: |
-        echo "$just_test"
+      run: ./.github/scripts/print_secret.sh $just_test
