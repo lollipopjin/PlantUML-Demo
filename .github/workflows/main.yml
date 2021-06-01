@@ -20,3 +20,12 @@ jobs:
     - name: Run build script
       run: ./.github/scripts/build.sh
       shell: bash
+    - name: dome some calculate
+      run: | 
+        expr 1 + 1 > output.log
+      shell: bash
+    - name: save output file
+      uses: actions/upload-artifact@v2
+      with:
+        name: output-log-file
+        path: output.log
